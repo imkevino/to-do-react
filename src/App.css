@@ -1,0 +1,34 @@
+body{
+  background-color: #efe;
+}
+
+.App
+{
+  background-color: #fff;
+  min-height: 500px;
+  width:400px;
+  margin:40px auto;
+  padding:20px;
+}
+
+#todo-form input{
+  background-colour:#f00;
+  border: 1px solid grey;
+  text-align: center;
+  width:200px;
+  height: 50px;
+  margin:20px; 
+  font-size: 16px;
+  
+}
+h1{
+  text-align: center;
+}
+#todo-form button{
+  height:50px;
+  width:70px;
+  border-radius: 5px;
+  background-color: green;
+  font-weight: bold;
+  color: #fff;
+}
